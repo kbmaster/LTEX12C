@@ -1,2 +1,2 @@
 Sandbox events with bubbling
-Some data
+Test cases whith Chai

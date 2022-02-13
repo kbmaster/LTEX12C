@@ -1,7 +1,7 @@
 import { LitElement, html, css } from 'lit-element';  
-import sandbox from '../sandbox/sandbox'
+import sandbox from '../sandbox/sandbox.js';
 
-class ToDoTask extends LitElement {    
+export class ToDoTask extends LitElement {    
 	
 	static get properties() {
                 return {
