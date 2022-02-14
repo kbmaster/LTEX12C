@@ -26,6 +26,5 @@ describe('Test ToDoTask', () => {
         const button = el.shadowRoot.querySelector('a');
         button.click();
     });
-	
 
 });
